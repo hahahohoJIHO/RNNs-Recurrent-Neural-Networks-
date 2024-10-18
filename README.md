@@ -1,4 +1,4 @@
-# 📚 RNNs (Recurrent Neural Networks)
+# 📚 RNN (Recurrent Neural Network)
 **Big Data Capstone Design Assignment 2: DS Methodology**
 
 ## 📑 Table of Contents
